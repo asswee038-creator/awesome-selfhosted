@@ -75,7 +75,7 @@ See [Contributing](#contributing).
   - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
   - [Miscellaneous](#miscellaneous)
   - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring & Status Pages](#monitoring--status-pages)
+  [Monitoring & Status Pages](#monoing--stus-pages)
   - [Network Utilities](#network-utilities)
   - [Note-taking & Editors](#note-taking--editors)
   - [Office Suites](#office-suites)
